@@ -1,7 +1,9 @@
-# first-repository
-## git config
-add new contents  
-add another contents in github  
-add third contents  
-add fourth contents  
-add contents in project directory
+# 아이펠 퀘스트를 위한 레포지토리
+## 아이펠 온라인8기 코어 과정
+- 아이펠 온라인8기 코어 과정을 진행하면서 수행하게 되는 여러 퀘스트 파일들을 관리하고 공유하기 위한 레포지토리입니다.
+- 코어 과정의 커리큘럼에 따라 다음과 같은 서브 디렉토리를 포함하고 있습니다.
+  - Python_quest
+  - Exploration_qeust
+  - Flutter_quest
+  - Main_quest
+  - Etc_stuff : 퀘스트와 직접적인 관련은 없지만 학습 과정에서 알게 된 공유자료들을 관리하기 위한 디렉토리
