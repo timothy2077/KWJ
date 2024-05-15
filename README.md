@@ -12,6 +12,8 @@
   - Etc_stuff : 퀘스트와 직접적인 관련은 없지만 학습 과정에서 알게 된 공유자료들을 관리하기 위한 디렉토리
 
 ```
+<전체 디렉토리 구조>
+
 AIFFEL_quest
 ├── Github_quest
 │   ├── README.md
