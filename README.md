@@ -10,3 +10,71 @@
   - Flutter_quest
   - Main_quest
   - Etc_stuff : 퀘스트와 직접적인 관련은 없지만 학습 과정에서 알게 된 공유자료들을 관리하기 위한 디렉토리
+
+```
+AIFFEL_quest
+├── Github_quest
+│   ├── README.md
+│   └── REVIEW.md
+├── Python_quest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── MainQuest
+│       ├── .ipynb
+│       └── README.md
+├── Exploration_quest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest04
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest05
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest06
+│   │   ├── .ipynb
+│   │   └── README.md
+│   └── Quest07
+│       ├── .ipynb
+│       └── README.md
+├── Flutter_quest
+│   ├── Quest01
+│   │   ├── MyApp
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── MyApp
+│   │   └── README.md
+│   ├── Quest03
+│   │   ├── MyApp
+│   │   └── README.md
+│   └── Quest04
+│       ├── MyApp
+│       └── README.md
+└── Main_quest
+		├── Quest01
+		│   ├── .ipynb
+		│   └── README.md
+		├── Quest02
+		│   ├── .ipynb
+		│   └── README.md	
+		└── Quest03
+		    ├── .ipynb
+		    └── README.md		
+```
