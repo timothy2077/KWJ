@@ -67,14 +67,16 @@ AIFFEL_quest
 │   └── Quest04
 │       ├── MyApp
 │       └── README.md
-└── Main_quest
-		├── Quest01
-		│   ├── .ipynb
-		│   └── README.md
-		├── Quest02
-		│   ├── .ipynb
-		│   └── README.md	
-		└── Quest03
-		    ├── .ipynb
-		    └── README.md		
+├── Main_quest
+│   ├── Quest01
+│   │   ├── .ipynb
+│   │   └── README.md
+│   ├── Quest02
+│   │   ├── .ipynb
+│   │   └── README.md	
+│   └── Quest03
+│       ├── .ipynb
+│       └── README.md
+└── Etc_stuff
+    ├── ...
 ```
